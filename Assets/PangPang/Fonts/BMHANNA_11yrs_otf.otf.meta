@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 542051cf6206a4c13b73b635691fe07c
+timeCreated: 1546165043
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BM HANNA 11yrs old OTF
+  fontNames:
+  - BM HANNA 11yrs old OTF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
