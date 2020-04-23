@@ -1,0 +1,3082 @@
+fileFormatVersion: 2
+guid: c5ece169acb91ab459a8d67b95a80854
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: harpoon_000
+    21300002: harpoon_001
+    21300004: harpoon_002
+    21300006: harpoon_003
+    21300008: harpoon_004
+    21300010: harpoon_005
+    21300012: harpoon_006
+    21300014: harpoon_007
+    21300016: harpoon_008
+    21300018: harpoon_009
+    21300020: harpoon_010
+    21300022: harpoon_011
+    21300024: harpoon_012
+    21300026: harpoon_013
+    21300028: harpoon_014
+    21300030: harpoon_015
+    21300032: harpoon_016
+    21300034: harpoon_017
+    21300036: harpoon_018
+    21300038: harpoon_019
+    21300040: harpoon_020
+    21300042: harpoon_021
+    21300044: harpoon_022
+    21300046: harpoon_023
+    21300048: harpoon_024
+    21300050: harpoon_025
+    21300052: harpoon_026
+    21300054: harpoon_027
+    21300056: harpoon_028
+    21300058: harpoon_029
+    21300060: harpoon_030
+    21300062: harpoon_031
+    21300064: harpoon_032
+    21300066: harpoon_033
+    21300068: harpoon_034
+    21300070: harpoon_035
+    21300072: harpoon_036
+    21300074: harpoon_037
+    21300076: harpoon_038
+    21300078: harpoon_039
+    21300080: harpoon_040
+    21300082: harpoon_041
+    21300084: harpoon_042
+    21300086: harpoon_043
+    21300088: harpoon_044
+    21300090: harpoon_045
+    21300092: harpoon_046
+    21300094: harpoon_047
+    21300096: harpoon_048
+    21300098: harpoon_049
+    21300100: harpoon_050
+    21300102: harpoon_051
+    21300104: harpoon_052
+    21300106: harpoon_053
+    21300108: harpoon_054
+    21300110: harpoon_055
+    21300112: harpoon_056
+    21300114: harpoon_057
+    21300116: harpoon_058
+    21300118: harpoon_059
+    21300120: harpoon_060
+    21300122: harpoon_061
+    21300124: harpoon_062
+    21300126: harpoon_063
+    21300128: harpoon_064
+    21300130: harpoon_065
+    21300132: harpoon_066
+    21300134: harpoon_067
+    21300136: harpoon_068
+    21300138: harpoon_069
+    21300140: hold_harpoon_000
+    21300142: hold_harpoon_001
+    21300144: hold_harpoon_002
+    21300146: hold_harpoon_003
+    21300148: hold_harpoon_004
+    21300150: hold_harpoon_005
+    21300152: hold_harpoon_006
+    21300154: hold_harpoon_007
+    21300156: hold_harpoon_008
+    21300158: hold_harpoon_009
+    21300160: hold_harpoon_010
+    21300162: hold_harpoon_011
+    21300164: hold_harpoon_012
+    21300166: hold_harpoon_013
+    21300168: hold_harpoon_014
+    21300170: hold_harpoon_015
+    21300172: hold_harpoon_016
+    21300174: hold_harpoon_017
+    21300176: hold_harpoon_018
+    21300178: hold_harpoon_019
+    21300180: hold_harpoon_020
+    21300182: hold_harpoon_021
+    21300184: hold_harpoon_022
+    21300186: hold_harpoon_023
+    21300188: hold_harpoon_024
+    21300190: hold_harpoon_025
+    21300192: hold_harpoon_026
+    21300194: hold_harpoon_027
+    21300196: hold_harpoon_028
+    21300198: hold_harpoon_029
+    21300200: hold_harpoon_030
+    21300202: hold_harpoon_031
+    21300204: hold_harpoon_032
+    21300206: hold_harpoon_033
+    21300208: hold_harpoon_034
+    21300210: hold_harpoon_035
+    21300212: hold_harpoon_036
+    21300214: hold_harpoon_037
+    21300216: hold_harpoon_038
+    21300218: hold_harpoon_039
+    21300220: hold_harpoon_040
+    21300222: hold_harpoon_041
+    21300224: hold_harpoon_042
+    21300226: hold_harpoon_043
+    21300228: hold_harpoon_044
+    21300230: hold_harpoon_045
+    21300232: hold_harpoon_046
+    21300234: hold_harpoon_047
+    21300236: hold_harpoon_048
+    21300238: hold_harpoon_049
+    21300240: hold_harpoon_050
+    21300242: hold_harpoon_051
+    21300244: hold_harpoon_052
+    21300246: hold_harpoon_053
+    21300248: hold_harpoon_054
+    21300250: hold_harpoon_055
+    21300252: hold_harpoon_056
+    21300254: hold_harpoon_057
+    21300256: hold_harpoon_058
+    21300258: hold_harpoon_059
+    21300260: hold_harpoon_060
+    21300262: hold_harpoon_061
+    21300264: hold_harpoon_062
+    21300266: hold_harpoon_063
+    21300268: hold_harpoon_064
+    21300270: hold_harpoon_065
+    21300272: hold_harpoon_066
+    21300274: hold_harpoon_067
+    21300276: hold_harpoon_068
+    21300278: hold_harpoon_069
+    21300280: hold_harpoon_070
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 4
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: harpoon_000
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 199
+        width: 9
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bded093012cab448ac14caa761933e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_001
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 474
+        width: 9
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c86c56b8ec02a4383095d3f65075b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_002
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 84
+        width: 9
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1768a865cfed86b45a8c4ca881c77343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_003
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 42
+        width: 9
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f353ba40adb134da481f13a93e5c7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_004
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 407
+        width: 9
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a20279434561a409c3d20095bfcb10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_005
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 315
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2388e96a15460fc488c9b93a2d9eefb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_006
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 267
+        width: 9
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab849f60740b04a858750d91e346e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_007
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 460
+        width: 9
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da910c99650b15488aefb0e1b078c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_008
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 163
+        width: 9
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f76dd1b561ceb4f85237f3baa45bfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_009
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 55
+        width: 9
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d5e634ef36c93418412b60a97714d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_010
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 9
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b58d1b4c330d964caffdd2048ebfaa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_011
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 254
+        width: 9
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d74052b0b4a4a84bbf599253ee3d9a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_012
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 130
+        width: 9
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c88cfc45bd8e4d97eece142aae122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_013
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 9
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac6fe9a2c5663640a364289789ee0f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_014
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 9
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7e1b87a152f7741ba8ec16b66c3e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_015
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 443
+        width: 9
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f7d12a338609146a0202ecf0917a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_016
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 296
+        width: 9
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1f27a74a620a04488d15537dac4d79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_017
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 9
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac150c3fba84ba54bb942ed3c95a7189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_018
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 9
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4614db21f7399e449af522008fa5a8f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_019
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 433
+        width: 9
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7a1d80da1b244bb2028285381c7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_020
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 328
+        width: 9
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039f04a3be81bdd44b30082ba207eaed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_021
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 84
+        width: 9
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3347c458877d6419437251a688c21a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_022
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 9
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b44949ac608b3446b2156634631c1d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_023
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 356
+        width: 9
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0f017719ec0e949809792a2059e6ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_024
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 91
+        width: 9
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c97c230b6dca84d8546189a2569227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_025
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 420
+        width: 9
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cef058ade04a34bbf4c51b6f69dc45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_026
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 383
+        width: 9
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ad5541544bffb44ac038ac6e2fbde2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_027
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 98
+        width: 9
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30006ba597d4966418caaedfa433c0bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_028
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 9
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cc4dab07a4dff4e9f529da80a4f29f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_029
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 204
+        width: 9
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5bdcbba5f738e408d49cf7ac304842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_030
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 9
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fec25548bd4eec47b7b404fb5cec3c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_031
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 406
+        width: 9
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b138b2ea80b064faa1cdd22475ec04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_032
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 216
+        width: 9
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec84001807d0d48a1e65f49215914b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_033
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 9
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ed24b63db2a2b46bb7744269b326b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_034
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 114
+        width: 9
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4917f6964f8431c4a9716ff42898977e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_035
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 9
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e080407ee24e026479664b7c0b99d5b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_036
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 118
+        width: 9
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa2cc61d7aaf5a4e9ee77ca13900a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_037
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 9
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c119f1f16739d1240b7652505a190c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_038
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 366
+        width: 9
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae8268a5295704594cab4cbaba6230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_039
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 9
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd70f07ed2b367b4a8283ca3244d8bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_040
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 379
+        width: 9
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82aa0dfdd1e35a41b49e9a2bee7492d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_041
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 9
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b1d3103ac26554da8d8e136ec9b88e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_042
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 9
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc40f769895373349a97d1799f3fd22a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_043
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 132
+        width: 9
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20fb7ab2b383a641a1fcf135039bbe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_044
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 272
+        width: 9
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b8d9d40f469fd41ae0e5a714a15135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_045
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 9
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40572cc8e54bc9c4f9b904a1d7f316e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_046
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 374
+        width: 9
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142396337943ec64ebba2ff6cbc1676c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_047
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 9
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d7b73af917187458d53de1986555ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_048
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 369
+        width: 9
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241ed23a60b10c443a7229e7a4d6b092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_049
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 145
+        width: 9
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f1ffe1233dffa4d9b43b39328e1bd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_050
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 364
+        width: 9
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9149409492e4dd943930eb0df2755124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_051
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 9
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4c7b10a6e6391488cae6678c75ba40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_052
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 308
+        width: 9
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdb64c45f26de84baf835184baad37b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_053
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 9
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ad26f2ec5af9d4ebcae473bb2c924c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_054
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 318
+        width: 9
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14f3abef34e19a4d9f5d599bdbab1ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_055
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 159
+        width: 9
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183a1f1f9ba968f4d8cc6efa2d87c8ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_056
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 351
+        width: 9
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c41ce374e98cdd4f99cfd9b667b3f75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_057
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 9
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8512b10022ec264b9fa45796b8b1643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_058
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 336
+        width: 9
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375afcd8633e3bb4ca6ca2e99a8ecf02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_059
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 9
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e954d421c49844a27885d09cdbc01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_060
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 172
+        width: 9
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b10b7a05965e44f82ff26e9f098762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_061
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 174
+        width: 9
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5225fc3aac2764ab491899030028a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_062
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 9
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31aced9bf6b9d04d87dcf695bafafa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_063
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 9
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89da89bbda62cd04aa6f877065930d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_064
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 181
+        width: 9
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16268b8e1d9a8284ba81d13663172d7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_065
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 9
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be41107df6bd33045b9f175e35d148ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_066
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 186
+        width: 9
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429cf7ffee4694f4a8846ae21983b006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_067
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 9
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c443c240c4cce4e85f92a0a030e3e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_068
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 9
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cbaea42420de84c8d44079a5d307fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: harpoon_069
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 9
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019dd208077fef41ac0f8e7731eb9af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_000
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 476
+        width: 9
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7553004d288e064bb64ca37cea8ee24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_001
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 162
+        width: 9
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b715e8d95b1a30746956cb4bfcfa8987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_002
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 123
+        width: 9
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1a3d6397b681140ab97d3ad0a0166d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_003
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 9
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f382f77caa04146a470e7ad1f5002c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_004
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 451
+        width: 9
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff52a9a808254d146874afe54a4511bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_005
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 361
+        width: 9
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0fd79ba1ad26a459c49d113558558e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_006
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 464
+        width: 9
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17898d660d5330a48ac26e94f878ebc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_007
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 216
+        width: 9
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a838b64b1dcdc2d4ebe45b8fc94327ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_008
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 110
+        width: 9
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44553c244aa1b02418687a4b4edd5498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_009
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 9
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82309b9d6bf0c004981a68ebf439f282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_010
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 374
+        width: 9
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ab00ae1b95fbe4f96e234c82733b3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_011
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 314
+        width: 9
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca0d83c21f0b94e9dd8b9d2c6d4ea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_012
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 9
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e47105678a44794f8aced0a1ecf0f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_013
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 447
+        width: 9
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc05ed34bbe134fb7fdad895bdde08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_014
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 445
+        width: 9
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f496fced9daac4aba1f7d4ff928789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_015
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 438
+        width: 9
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75597f4c2705b7c4faf59c7b409c8543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_016
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 367
+        width: 9
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed08afcb6047bb41b55b24cf7d16d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_017
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 223
+        width: 9
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0753b27a49896479840b5d72606b81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_018
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 75
+        width: 9
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5afe27fa3f92da4099962dde0e90e57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_019
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 408
+        width: 9
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990476453c6aef469eb23f0ec398776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_020
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 248
+        width: 9
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8886fdd72fb2414eab08fe2809f2249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_021
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 166
+        width: 9
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048f37f99618e14ab5682a17e1b6e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_022
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 428
+        width: 9
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5abd8dc0cb4cfa499f4ab3e541d3e8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_023
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 269
+        width: 9
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f30e61b6efead942999e55fce9ccacc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_024
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 180
+        width: 9
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a290db26ed9bc045ab93ea801bb4c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_025
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 9
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c33ff9d8c9157545af9aeb782d8309c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_026
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 290
+        width: 9
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc6f460badbd524b85e87aad5a9f6f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_027
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 194
+        width: 9
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e96c559fca48c48997efa340399663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_028
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 404
+        width: 9
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea95e92b2cc60ae46a6024ba20d44969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_029
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 9
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31484ae84c7db704b98c59c8362e321b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_030
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 102
+        width: 9
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79ff4d59bad8cd4f9f42acdcbab8798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_031
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 323
+        width: 9
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676e2046a8bf9444fad6343cb8fefb67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_032
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 109
+        width: 9
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e8b33a45569940b5d77eeec18df42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_033
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 336
+        width: 9
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7682c299c6da54e4bba88fedbae5e8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_034
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 225
+        width: 9
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dbfe290e209674485ca06f1359d063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_035
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 350
+        width: 9
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6f2fbe7a2eda04c8a8b37eba200d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_036
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 234
+        width: 9
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5766d0c10d42f4f82944e5f3493bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_037
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 393
+        width: 9
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc62cb7830ccaec41a717ae9e66f91d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_038
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 9
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504d6abf3c78bbe4cb6dac57564c4ba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_039
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 123
+        width: 9
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fc1a21683dfa8419d21dddd1fa1b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_040
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 254
+        width: 9
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0719c3f18b33eff488b3cef8eb8ac675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_041
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 9
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb10e453be7024bb80f69b4f43dc48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_042
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 264
+        width: 9
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a836941de79ff14c8418f53603f9571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_043
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 9
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028b4ab65ab34d540aec9cb0b76c8362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_044
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 378
+        width: 9
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e710067e0b5b14ba6da36601b6e6a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_045
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 9
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c9adb04848cd146b503ed587d3257e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_046
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 282
+        width: 9
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfdb1f01f167814c8ed742acfca35b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_047
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 141
+        width: 9
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2def31b7252aec04a80c3ba2f48336b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_048
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 290
+        width: 9
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da04038ac31b9d46919c1d1cd517e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_049
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 9
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b348155c5f25544bfaf1fef94324b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_050
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 300
+        width: 9
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba3123aaae5d384db221f1b2c2e920c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_051
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 9
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3aef565156a47428e458c1fdb3d643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_052
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 360
+        width: 9
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e743918943a0724580b712a92c5c458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_053
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 154
+        width: 9
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29afc64abea82a4449e94ee8a53c9de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_054
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 356
+        width: 9
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff218d951cadf934ca99762c38cca292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_055
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 9
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ec185eb55f4e94d84243b0dbabacb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_056
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 326
+        width: 9
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce5ef230f190d349bbd91961d357120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_057
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 163
+        width: 9
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4131a89596f5345a749625a265cd67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_058
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 346
+        width: 9
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aec734274203e4f937f1f20b2b9dc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_059
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 9
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd40741714591434db776cccf9be7941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_060
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 342
+        width: 9
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f07eb25e1310c14e94b8ee074b60629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_061
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 9
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece803067a29e343a9ac170f671a267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_062
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 177
+        width: 9
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb3cc0d1f216b049a13b8e65aa59e71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_063
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 179
+        width: 9
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd98e878ff3c3a44aa64fdf02eb56d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_064
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 9
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162c08978300dd8448b581f4452ebceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_065
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 183
+        width: 9
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2dafde0153f1b49b1e1ed79ffa06c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_066
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 9
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf8b68568d448c439152f49dd3aba76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_067
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 188
+        width: 9
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6788915be7fd14fb5f31db8cebffbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_068
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 190
+        width: 9
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6444875708900e54a88e9dd61c550142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_069
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 9
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a33a2a1deeaadd4685c84f61180595f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hold_harpoon_070
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb8062a5c337e34ca8e80a7156b437c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e8326a7ca6746cf4c9e96cf74c20f8da
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

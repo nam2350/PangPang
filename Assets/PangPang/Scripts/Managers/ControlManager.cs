@@ -7,18 +7,28 @@ public class ControlManager : MonoBehaviour
     public Rigidbody2D playerRb;
     public Transform joypadTr;
     public Transform joystickTr;
+    public Transform joysticBgTr;
     public float moveSpeed = 3.5f;
 
     private float limitJoystickPos = 80;
-    private Vector2 defaultJoypadScreenPos;
+
+    //private Vector2 defaultJoypadScreenPos;
+    private Vector2 tempJoystickBgPos;
+
+    private bool isEditorMoving = false;
 
     private void Start()
     {
-        defaultJoypadScreenPos = UICamera.mainCamera.WorldToScreenPoint(joypadTr.position);
+        // 조이스틱 고정형
+        // defaultJoypadScreenPos = UICamera.mainCamera.WorldToScreenPoint(joypadTr.position);
     }
 
     public void OnPress()
     {
+        tempJoystickBgPos = UICamera.lastEventPosition;
+        joypadTr.position = UICamera.mainCamera.ScreenToWorldPoint(tempJoystickBgPos);
+        joypadTr.gameObject.SetActive(true);
+
         StartCoroutine("CoMoving");
     }
 
@@ -28,9 +38,41 @@ public class ControlManager : MonoBehaviour
         ResetController();
     }
 
+    private void Update()
+    {
+        float axisX = Input.GetAxisRaw("Horizontal");
+        if (axisX != 0 && isEditorMoving == false)
+        {
+            isEditorMoving = true;
+            joypadTr.gameObject.SetActive(true);
+            StartCoroutine("CoMoving");
+        }
+        else if (axisX == 0 && isEditorMoving == true)
+        {
+            isEditorMoving = false;
+            StopCoroutine("CoMoving");
+            ResetController();
+        }
+
+        if (axisX > 0)
+        {
+            joystickTr.localPosition = new Vector3(75, 0, 0);
+        }
+        else if (axisX < 0)
+        {
+            joystickTr.localPosition = new Vector3(-75, 0, 0);
+        }
+        else
+        {
+            joystickTr.localPosition = Vector2.zero;
+        }
+    }
+
     void ResetController()
     {
         joystickTr.localPosition = Vector3.zero;
+        joysticBgTr.localPosition = Vector3.zero;
+        joypadTr.gameObject.SetActive(false);
         playerRb.velocity = Vector2.zero;
         PlayerManager.instance.SetAnimaiton(PlayerManager.AniType.Idle);
     }
@@ -40,22 +82,42 @@ public class ControlManager : MonoBehaviour
         while (true)
         {
             //Debug.Log("CoMoving");
-
-            Vector2 touchScreenPos = UICamera.lastEventPosition;
-            float distance = Vector2.Distance(defaultJoypadScreenPos, touchScreenPos);
-
-            if (distance < limitJoystickPos)
+            if ( !isEditorMoving )
             {
+                Vector2 touchScreenPos = UICamera.lastEventPosition;
                 joystickTr.position = UICamera.mainCamera.ScreenToWorldPoint(touchScreenPos);
-            }
-            else
-            {
-                float angle = GetAngle(defaultJoypadScreenPos, touchScreenPos);
-                Vector2 limitPos = GetLimitPos(defaultJoypadScreenPos, angle, limitJoystickPos);
-                joystickTr.position = UICamera.mainCamera.ScreenToWorldPoint(limitPos);
+
+                //고정형
+                //float distance = Vector2.Distance(defaultJoypadScreenPos, touchScreenPos);
+
+                float distance = Vector2.Distance(tempJoystickBgPos, touchScreenPos);
+
+                if (distance > limitJoystickPos)
+                {
+                    float angle = GetAngle(touchScreenPos, tempJoystickBgPos);
+                    tempJoystickBgPos = GetLimitPos(touchScreenPos, angle, limitJoystickPos);
+                    joysticBgTr.position = UICamera.mainCamera.ScreenToWorldPoint(tempJoystickBgPos);
+                }
             }
 
-            float disX = joystickTr.localPosition.x;
+            //if (distance < limitJoystickPos)
+            //{
+            //    joystickTr.position = UICamera.mainCamera.ScreenToWorldPoint(touchScreenPos);
+            //}
+            //else
+            //{
+            //    //고정형
+            //    //float angle = GetAngle(defaultJoypadScreenPos, touchScreenPos);
+            //    //Vector2 limitPos = GetLimitPos(defaultJoypadScreenPos, angle, limitJoystickPos);
+
+            //    float angle = GetAngle(tempJoystickBgPos, touchScreenPos);
+            //    Vector2 limitPos = GetLimitPos(tempJoystickBgPos, angle, limitJoystickPos);
+            //    joystickTr.position = UICamera.mainCamera.ScreenToWorldPoint(limitPos);
+            //}
+
+            // 고정형
+            //float disX = joystickTr.localPosition.x
+            float disX = joystickTr.localPosition.x - joysticBgTr.localPosition.x;
             if (disX > 5)
             {
                 disX = moveSpeed;

@@ -56,8 +56,8 @@ public class DatabaseTest : MonoBehaviour
         //DataService.Instance.InsertData(testData);
 
         // Delete 이름이 "D"인 사람의 데이터 삭제
-        var testData = DataService.Instance.GetDataList<Table.TestTable>().Find(x => x.name == "d");
-        DataService.Instance.DeleteData<Table.TestTable>(testData.id);
+        //var testData = DataService.Instance.GetDataList<Table.TestTable>().Find(x => x.name == "d");
+        //DataService.Instance.DeleteData<Table.TestTable>(testData.id);
 
     }
 
